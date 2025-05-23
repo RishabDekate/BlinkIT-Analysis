@@ -24,8 +24,18 @@ Chart Requirements:
 # Data Structure & Initial Checks
 
 BlinkIt's database structure as seen below consist of one table with 12 columns and total row count of 8524 records.
-
-
+1. Item Fat Content - String
+2. Item Identifier - String
+3. Item Type - String
+4. Outlet Established Year - int64
+5. Outlet Identifier - String
+6. Outlet Location Type - String
+7. Outlet Size - String
+8. Outlet Type - String
+9. Item Visibility - Float64
+10. Item Weight - Float64
+11. Sales - Float64
+12. Rating - Int64
 
 # Executive Summary
 
